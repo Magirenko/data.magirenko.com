@@ -16,7 +16,7 @@
         "config": {
           "zip": false,
           "rar": true,
-          "sevenzip": true
+          "sevenzip": true,
           "installer": false
         }
       }
