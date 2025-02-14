@@ -12,7 +12,7 @@
         }
       },
       {
-        "type": "Source",
+        "type": "Windows",
         "config": {
           "zip": false,
           "rar": true,
