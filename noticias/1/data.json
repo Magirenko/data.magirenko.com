@@ -1,0 +1,8 @@
+{
+  "data": {
+    "title": "Actualización en la página web",
+    "desc": "¡Nueva actualización en la página web de Magirenko! La actualización es:<br>- subpágina de noticias donde verás todas las noticias<br>- ahora las noticias y lanzamientos de Magirenko Music usan una sola página para ver una noticia/release, ahora es release/noticia?id={ID}<br>- Ahora Magirenko tiene una página específica para almacenar datos de servidor: data.magirenko.com<br>- Cambio en el sistema de noticias y releases, ahora usan JSON",
+    "creationdate": "21/02/2025",
+    "author": "Magirenko"
+  }
+}
