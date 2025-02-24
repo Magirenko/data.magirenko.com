@@ -6,12 +6,6 @@
     "filename": "magirenko_music_x86",
     "platforms": [
       {
-        "type": "Source",
-        "config": {
-          "source": true
-        }
-      },
-      {
         "type": "Windows",
         "config": {
           "zip": false,
