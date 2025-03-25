@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "v0.2 Alfa",
+    "desc": "## Que hay de nuevo en la version v0.2:<br><br>### Adiciones<br>- Ahora puedes abrir Archivos de audio con Magirenko Music<br>- Changelogs de lo nuevo en la pantalla de bienvenida<br>### Cambios<br>- Se quitaron todas las referencias de &quot;MagicM Music&quot; en el codigo fuente (puede ser que haya mas)<br>- Las optimizaciones de compilacion de .NET se cambio a release, esto es por que pesaba mas.<br>- Se arreglo el error tipografico en el texto de la version de la pantalla de bienvenida &quot;magicrenko&quot;<br>- Se arreglaron los metadatos del Ejecutable<br>- Se quito la posibilidad de Cambiar el tamaño de la ventana y maximizarlo.<br>### Arreglo de Bugs<br>- Se arreglo el bug que el bucle no funcionaba.<br>- Se arreglo la &quot;g&quot; un poco recortada en el texto de la version (no tan notable)<br><br>## Cambios de github<br>- Magirenko Music ahora es open source! (hasta las betas)<br>- Se puso el codigo fuente en vez del software compilado.<br>- el codigo fuente tiene un compilador de batch y lua integrado.",
+    "creationdate": "23/11/24",
+    "filename": "magirenko_music_x86",
+    "platforms": [
+      {
+        "type": "Windows",
+        "config": {
+          "zip": false,
+          "rar": true,
+          "sevenzip": true,
+          "installer": false
+        }
+      }
+    ]
+  }
+}
