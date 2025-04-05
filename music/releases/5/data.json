@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "v0.4.3 Alfa",
+    "desc": "<h1>Salio una nueva actualización de Magirenko Music!</h1> <h2>Cambios</h2> <ul> <li>Ahora si le das a atrás mientras una playlist está abierta se quitara la música que se esté reproduciendo.</li> <li>Magirenko Music ahora usa.net 9.0!</li> <li>Ahora debes presionar CTRL+Derecha/CTRL+Izquierda para arrastrar la línea de tiempo de las músicas con flechas.</li> <li>Ahora no hay aceleración cuando se arrastra la línea de tiempo presionando las teclas derecha e izquierda, y también es más rápido.</li> <li>Ahora la mayoría de los archivos de Magirenko Music están adentros del ejecutable en un solo archivo, así tiene más organización</li> <li>Magirenko Music ahora pesa más por la organización.</li> </ul> <h2>Adiciones</h2> <ul> <li>Ahora hay full manejo de errores.</li> </ul>",
+    "creationdate": "5/4/25",
+    "filename": "magirenko_music_x86",
+    "platforms": [
+      {
+        "type": "Windows",
+        "config": {
+          "zip": false,
+          "rar": true,
+          "sevenzip": true,
+          "installer": false
+        }
+      }
+    ]
+  }
+}
