@@ -1,0 +1,8 @@
+{
+    "data": {
+        "title": "Cambio esencial que influirá el futuro de Magirenko",
+        "desc": "<p>Oficialmente todos los software de Magirenko se van a recrear completamente en un nuevo framework y lenguaje de programaci&oacute;n.</p><p><br />Desde ahora, Todas las nuevas actualizaciones del software de Magirenko estar&aacute;n escrito en C y C++ y en otros frameworks.</p><p>&nbsp;</p><h1>&iquest;Por qu&eacute; se decidi&oacute; esto?</h1><p>La raz&oacute;n por la que se hizo este cambio es por lo siguiente:</p><ul><li>C# y .NET es muy dependiente de Microsoft, esto puede causar problemas y dificultades de portabilidad.</li><li>C# es un lenguaje de alto nivel, complicando la posibilidad de integrar caracter&iacute;sticas bases del sistema.</li><li>C# y .NET tienen falta de rendimiento y de optimizaci&oacute;n comparado con C y C++.</li><li>El software basado en C# y .NET son pesados al compilarlos independientemente.</li></ul><h1>&iquest;Qu&eacute; pasar&aacute; ahora?</h1><p>Este cambio influir&aacute; el futuro de Magirenko y de nuestro software. <strong>Este cambio abrir&aacute; nuevas puertas llenas de oportunidades a Magirenko con nuevas ventajas y mejoras a nuestra empresa para el &eacute;xito de nuestro software.</strong></p><p>&nbsp;</p><p><em>Gracias por entender.</em></p><ul><li><em>Miguel Eremenko, Fundador de Magirenko.</em></li></ul>",
+        "creationdate": "08/03/2025",
+        "author": "Magirenko"
+    }
+}
